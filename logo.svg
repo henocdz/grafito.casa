@@ -1,0 +1,12 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="8 104 432 124" role="img" aria-labelledby="t">
+  <title id="t">Grafito</title>
+  <style>@import url('https://fonts.googleapis.com/css2?family=Marcellus&amp;display=block');</style>
+  <text x="16" y="171" font-family="Marcellus, 'Optima', 'Trajan Pro', serif" font-size="80"
+        textLength="340" lengthAdjust="spacing" fill="#111">GRAFITO</text>
+  <g fill="#111">
+    <path d="M252.25 193.75 L315.5 191.5 L315.5 194.5 L268 196.25 L268 217.5 L252.25 217.5 Z"/>
+    <rect x="320.5" y="178.75" width="4.75" height="38.75"/>
+    <path d="M329 190 L396 178 L396.5 183.5 L341 192.5 L341 217.5 L329 217.5 Z"/>
+    <rect x="406.75" y="151.25" width="24.75" height="70"/>
+  </g>
+</svg>
